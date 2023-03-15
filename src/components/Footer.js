@@ -60,7 +60,7 @@ function Footer() {
                 <i class='fab fa-typo3' />
                 </Link>
             </div>
-            <small class='website-rights'>KHLZN &copy; 2020</small>
+            <small class='website-rights'>KHLZN <i class="fa-regular fa-copyright"></i> 2020</small>
             <div class='social-icons'>
                 <Link
                 class='social-icon-link facebook'
