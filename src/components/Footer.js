@@ -58,7 +58,7 @@ function Footer() {
                 KHLZN <i className='fa-solid fa-person-hiking' />
                 </Link>
             </div>
-            <small className='website-rights'>KHLZN <i className="fa-regular fa-copyright"></i> 2020</small>
+            <small className='website-rights'>KHLZN<i className='fa-solid fa-person-hiking' /> <i className="fa-regular fa-copyright"></i> 2020</small>
             <div className='social-icons'>
                 <Link
                 className='social-icon-link facebook'
